@@ -4,7 +4,7 @@ button {
   width: 50px;
   border-color: transparent;
   border-radius: 25%;
-  background-color: rgb(181, 174, 174);
+  background-color: rgb(168, 164, 164);
 }
 .md div {
   padding: 3px;
@@ -21,11 +21,22 @@ input {
   width: 280px;
   border: 2px solid black;
   padding: 25px;
-  background-color: aqua;
+  background-color: rgb(70, 161, 161);
+  border-radius: 10%;
 }
 button:hover{
     background-color: wheat;
 }
 button:active{
-    background-color: red;
+    background-color: rgb(123, 57, 57);
+}
+#bb{
+  background-color: orange;
+}
+
+#bb:hover{
+  background-color:wheat ;
+}
+#bb:active{
+  background-color: rgb(123, 57, 57);
 }
