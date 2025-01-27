@@ -30,7 +30,7 @@ input {
   text-align: center;
 }
 button:hover{
-    background-color: wheat;
+    background-color: rgb(240, 221, 221);
 }
 button:active{
     background-color: rgb(123, 57, 57);
@@ -40,7 +40,7 @@ button:active{
 }
 
 #bb:hover{
-  background-color:wheat ;
+  background-color: rgb(240, 221, 221);
 }
 #bb:active{
   background-color: rgb(123, 57, 57);
