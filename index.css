@@ -8,21 +8,26 @@ button {
 }
 .md div {
   padding: 3px;
+ 
 }
 input {
   border-color: transparent;
   background-color: wheat;
   height: 40px;
-  width: 97%;
+  width: 80%;
   padding: 10px;
   box-sizing: border-box;
+  
 }
 .md {
-  width: 280px;
+  width: 400px;
   border: 2px solid black;
+  box-sizing: border-box;
   padding: 25px;
+  margin: 20px auto;
   background-color: rgb(70, 161, 161);
   border-radius: 10%;
+  text-align: center;
 }
 button:hover{
     background-color: wheat;
@@ -39,4 +44,7 @@ button:active{
 }
 #bb:active{
   background-color: rgb(123, 57, 57);
+}
+body{
+  text-align: center;
 }
